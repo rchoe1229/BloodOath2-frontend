@@ -1,7 +1,8 @@
 # BLOODOATH
-  WELCOME TO FLATIRON SCHOOL NEW FRIENDS
+WELCOME TO FLATIRON SCHOOL NEW FRIENDS
   
-  This exercise was created to test your knowledge and get more familiar with JavaScript concepts!
+This exercise was created to test your knowledge and get more familiar with JavaScript concepts!
+    
     * Fetch
     * Fetch w/ options
     * DOM manipulations
