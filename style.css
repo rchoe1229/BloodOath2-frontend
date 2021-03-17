@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  font-family: "didot";
+  box-sizing: border-box;
+}
+
+body {
+  /* padding: 20px; */
+  /* text-align: center; */
+  background-color: #f3f3f3;
+}
+
+.app-name-container {
+  display: grid;
+  /* height: 100vh; */
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: max-content max-content;
+  margin: 3em 0;
+}
+
+.app-name {
+  /* transform: rotate(270deg); */
+  color:silver;
+  text-shadow:
+  4px 4px 1px #300000,
+  4px 6px 1px #400000,
+  4px 8px 1px #500000,
+  4px 10px 1px #600000,
+  4px 12px 1px #700000,
+  4px 14px 1px #800000,
+  4px 16px 1px #900000,
+  4px 18px 1px #A00000,
+  4px 20px 1px #B00000,
+  4px 22px 1px #C00000,
+  4px 24px 1px #D00000,
+  4px 26px 1px #E00000,
+  4px 28px 1px #F00000,
+  4px 30px 1px #FA0000,
+  4px 32px 1px #FB0000,
+  4px 34px 1px #FC0000,
+  4px 36px 1px #FD0000,
+  4px 38px 1px #FE0000,
+  4px 40px 2px #FF0000;
+}
+
+.image-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.image-card {
+  border: 1px solid #3f3f3f;
+  border-radius: 10x;
+  text-align: left;
+  background-color: #f3f3f3;
+  width: 300px;
+}
